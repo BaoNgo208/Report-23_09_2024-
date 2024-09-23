@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 hello 
 
 hello Bao
 
+=======
+>>>>>>> parent of 982da36 (ad3 text dev)
